@@ -1,5 +1,5 @@
 # nsprojectone
-Personal Portfolio Page.
+Personal Portfolio Page. ![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 ```
 HTML
 ```
@@ -7,8 +7,6 @@ HTML
 CSS
 ```
 <img width="400" alt="Screenshot 2021-10-22 183816" src="https://user-images.githubusercontent.com/64314222/138459012-052ea334-338a-4644-87e9-febae828aeae.png">
-
-![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 
 ### Languages and Tools:
 
